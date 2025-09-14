@@ -48,7 +48,7 @@ dutos-v2/
 
 * PHP 8.2+
 * Composer
-* MariaDB 10.11+ или PostgreSQL 15+
+* PostgreSQL 15+
 * Laravel 11+
 * Node.js & npm (ако ще се ползва Vue/React SPA)
 
